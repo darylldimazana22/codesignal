@@ -1,4 +1,5 @@
 function isLucky(n) {
+    // no type casting
     const add = (a, b) => a + b;
     let a = [];
     
